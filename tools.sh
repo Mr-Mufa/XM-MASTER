@@ -17,7 +17,7 @@ clear
 echo "$r"
 echo "█████████""$w         [""$yl""+""$w""] TOOLS XM MASTER LIST"
 echo "$r""█▄█████▄█""$p""   *""$w"" Author""$r""   :""$bl"" Mr Mufa"
-echo "$r""█""$w""▼▼▼▼▼""$w""        Contact""$r""  :""$gl"" mrxcroz.gmail.com"
+echo "$r""█""$w""▼▼▼▼▼""$w""        Contact""$r""  :""$gl"" mrxcroz@gmail.com"
 echo "$r""█""$w""             Youtube""$r""  :""$gl"" Mufa Tech"
 echo "$r""█""$w""▲▲▲▲▲""$p""      *""$yl"" Jika Tidak Memuji Sebaiknya Jangan Menghina""$w"" ^_^"
 echo "$r""█████████""$p""   *""$yl"" Tolong Jangan Di Recode Gan. Karena Membuat Tak Semudah Mencuri :)"
