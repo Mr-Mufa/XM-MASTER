@@ -59,7 +59,9 @@ echo "$yl"
 read -p "Masukan Pilihan : " pill
 
 case $pill in
-1)echo "Loading..."
+1)clear
+echo"$gl""Loading..."
+sleep 5
 clear
 sh tools.sh
 exit
