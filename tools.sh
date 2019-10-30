@@ -176,7 +176,8 @@ cd Call
 php spamcall.php
 ;;
 11)clear
-echo "$r Maaf Gan Tools Ini Sudah Mati:("
+echo "$r""Maaf Gan Tools Ini Sudah Mati:("
+sleep 3
 ;;
 12)clear
 git clone https://github.com/Mr-Mufa/BLANK
@@ -184,7 +185,7 @@ cd BLANK
 sh trojans.sh
 ;;
 13)clear
-echo "$r Maaf Gan Tools Ini Sudah Mati:("
+echo "$r""Maaf Gan Tools Ini Sudah Mati:("
 sleep 3
 ;;
 14)clear
