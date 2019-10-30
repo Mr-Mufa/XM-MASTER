@@ -49,7 +49,6 @@ echo "$w""═══════════════════════�
 echo "[+] Subscribe Chanell Mufa Tech" | lolcat -a -d 100
 echo""
 echo "$bl""[""$r""★""$bl""]""$yl"" PILIH MENU NYA ""$bl""[""$r""★""$bl""]"
-echo""
 echo "$w""[""$r""1""$w""]  Login Tools Nya"
 echo "$w""[""$r""2""$w""]  Hubungi Author""$w (""$gl""WhatsApp""$w"")"
 echo "$w""[""$r""3""$w""]  Install Bahan"
