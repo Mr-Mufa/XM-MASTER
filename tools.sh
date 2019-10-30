@@ -185,6 +185,7 @@ sh trojans.sh
 ;;
 13)clear
 echo "$r Maaf Gan Tools Ini Sudah Mati:("
+sleep 3
 ;;
 14)clear
 echo "Tools Ini Sedang Ada Perbaikan" | lolcat -a -d 20
