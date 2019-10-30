@@ -1,0 +1,1 @@
+echo "Gua Sumpahin Yang NgeRecode 2 Tahun Kemudian Bakal Sengsara."
