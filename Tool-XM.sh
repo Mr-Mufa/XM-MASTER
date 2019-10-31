@@ -59,7 +59,7 @@ read -p "Masukan Pilihan : " pill
 
 case $pill in
 1)clear
-echo"$gl""Loading..."
+echo "$gl""Loading..."
 sleep 5
 clear
 sh tools.sh
