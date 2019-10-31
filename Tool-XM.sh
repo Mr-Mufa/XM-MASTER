@@ -66,7 +66,7 @@ sh tools.sh
 exit
 ;;
 2)clear
-xdg-open https://api.whatsapp.com/send?phone=62895611982226&text=Halo%20Admin%20Ganteng:)
+xdg-open https://api.whatsapp.com/send?phone=62895611982226&text=Halo%20Admin%20Ganteng
 ;;
 3)clear
 pkg update -y && pkg upgrade -y
@@ -83,6 +83,7 @@ pip install -r requirements.txt
 pip2 install mechanize
 gem install lolcat
 pkg install figlet
+pkg install bc
 ;;
 4)xdg-open https://www.youtube.com/channel/UCxX-8ELT176YedIvD3nz7kA
 ;;
