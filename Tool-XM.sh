@@ -66,10 +66,7 @@ sh tools.sh
 exit
 ;;
 2)clear
-echo "$r""Silahkan Hubungi No Ini"
-echo "0895611982226" | lolcat -a -d 300
-xdg-open https://www.youtube.com/channel/UCxX-8ELT176YedIvD3nz7kA
-exit
+xdg-open https://api.whatsapp.com/send?phone=62895611982226&text=Halo%20Admin%20Ganteng:)
 ;;
 3)clear
 pkg update -y && pkg upgrade -y
