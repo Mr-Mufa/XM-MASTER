@@ -175,21 +175,21 @@ git clone https://github.com/4L13199/LITESPAM
 cd LITESPAM
 clear
 sh LITESPAM.sh
-exit
+sleep 5
 ;;
 9)clear
 git clone https://github.com/4L13199/LITESPAM
 cd LITESPAM
 clear
 sh LITESPAM.sh
-exit
+sleep 5
 ;;
 10)clear
 git clone https://github.com/storiku/Call
 cd Call
 clear
 php spamcall.php
-exit
+sleep 5
 ;;
 11)clear
 echo "$r""Maaf Gan Tools Ini Sudah Mati:("
