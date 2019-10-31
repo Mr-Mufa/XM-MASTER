@@ -135,12 +135,12 @@ cd SETAN
 python2 SETAN.py
 ;;
 06)clear
-https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/thelinuxchoice/shellphish
 cd shellphish
 sh shellphish.sh
 ;;
 6)clear
-https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/thelinuxchoice/shellphish
 cd shellphish
 sh shellphish.sh
 ;;
@@ -161,12 +161,12 @@ echo "Tools Ini Sedang Ada Perbaikan" | lolcat -a -d 20
 echo "Tunggu Sampai Perbaikan Selesai" | lolcat -a -d 100
 ;;
 09)clear
-https://github.com/4L13199/LITESPAM
+git clone https://github.com/4L13199/LITESPAM
 cd LITESPAM
 sh LITESPAM.sh
 ;;
 9)clear
-https://github.com/4L13199/LITESPAM
+git clone https://github.com/4L13199/LITESPAM
 cd LITESPAM
 sh LITESPAM.sh
 ;;
