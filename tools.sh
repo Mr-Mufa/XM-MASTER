@@ -86,32 +86,38 @@ case $ah in
 git clone https://github.com/Mr-Mufa/PASKEY
 clear
 cd PASKEY
+clear
 python2 keyyek.py
 ;;
 1)clear
 git clone https://github.com/Mr-Mufa/PASKEY
 clear
 cd PASKEY
+clear
 python2 keyyek.py
 ;;
 02)clear
 git clone https://github.com/Mr-Mufa/Calculate
 cd Calculate
+clear
 sh mtk.sh
 ;;
 2)clear
 git clone https://github.com/Mr-Mufa/Calculate
 cd Calculate
+clear
 sh mtk.sh
 ;;
 03)clear
 git clone https://github.com/Mr-Mufa/shencrypt
 cd shencrypt
+clear
 sh encbash.sh
 ;;
 3)clear
 git clone https://github.com/Mr-Mufa/shencrypt
 cd shencrypt
+clear
 sh encbash.sh
 ;;
 04)clear
@@ -127,21 +133,25 @@ sleep 3
 05)clear
 git clone https://github.com/pashayogi/SETAN
 cd SETAN
+clear
 python2 SETAN.py
 ;;
 5)clear
 git clone https://github.com/pashayogi/SETAN
 cd SETAN
+clear
 python2 SETAN.py
 ;;
 06)clear
 git clone https://github.com/thelinuxchoice/shellphish
 cd shellphish
+clear
 sh shellphish.sh
 ;;
 6)clear
 git clone https://github.com/thelinuxchoice/shellphish
 cd shellphish
+clear
 sh shellphish.sh
 ;;
 07)clear
@@ -163,17 +173,23 @@ echo "Tunggu Sampai Perbaikan Selesai" | lolcat -a -d 100
 09)clear
 git clone https://github.com/4L13199/LITESPAM
 cd LITESPAM
+clear
 sh LITESPAM.sh
+exit
 ;;
 9)clear
 git clone https://github.com/4L13199/LITESPAM
 cd LITESPAM
+clear
 sh LITESPAM.sh
+exit
 ;;
 10)clear
 git clone https://github.com/storiku/Call
 cd Call
+clear
 php spamcall.php
+exit
 ;;
 11)clear
 echo "$r""Maaf Gan Tools Ini Sudah Mati:("
@@ -202,6 +218,7 @@ python pukul.py
 echo "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII" | lolcat -a -d 20
 echo " TERIMA KASIH TELAH MENGGUNAKAN TOOLS INI :)" | lolcat -a -d 200
 echo "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII" | lolcat -a -d 20
+sleep 2
 xdg-open https://www.youtube.com/channel/UCxX-8ELT176YedIvD3nz7kA
 exit
 ;;
