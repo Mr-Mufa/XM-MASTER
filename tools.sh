@@ -88,6 +88,7 @@ clear
 cd PASKEY
 clear
 python2 keyyek.py
+sleep 5
 ;;
 1)clear
 git clone https://github.com/Mr-Mufa/PASKEY
@@ -95,30 +96,35 @@ clear
 cd PASKEY
 clear
 python2 keyyek.py
+sleep 5
 ;;
 02)clear
 git clone https://github.com/Mr-Mufa/Calculate
 cd Calculate
 clear
 sh mtk.sh
+sleep 5
 ;;
 2)clear
 git clone https://github.com/Mr-Mufa/Calculate
 cd Calculate
 clear
 sh mtk.sh
+sleep 5
 ;;
 03)clear
 git clone https://github.com/Mr-Mufa/shencrypt
 cd shencrypt
 clear
 sh encbash.sh
+sleep 5
 ;;
 3)clear
 git clone https://github.com/Mr-Mufa/shencrypt
 cd shencrypt
 clear
 sh encbash.sh
+sleep 5
 ;;
 04)clear
 echo "Tools Ini Sedang Ada Perbaikan" | lolcat -a -d 20
@@ -135,32 +141,38 @@ git clone https://github.com/pashayogi/SETAN
 cd SETAN
 clear
 python2 SETAN.py
+sleep 5
 ;;
 5)clear
 git clone https://github.com/pashayogi/SETAN
 cd SETAN
 clear
 python2 SETAN.py
+sleep 5
 ;;
 06)clear
 git clone https://github.com/thelinuxchoice/shellphish
 cd shellphish
 clear
 sh shellphish.sh
+sleep 5
 ;;
 6)clear
 git clone https://github.com/thelinuxchoice/shellphish
 cd shellphish
 clear
 sh shellphish.sh
+sleep 5
 ;;
 07)clear
 sleep 2
 xdg-open https://ff-free-diamonds.000webhostapp.com/Unipin%20FF/
+sleep 5
 ;;
 7)clear
 sleep 2
 xdg-open https://ff-free-diamonds.000webhostapp.com/Unipin%20FF/
+sleep 5
 ;;
 08)clear
 echo "Tools Ini Sedang Ada Perbaikan" | lolcat -a -d 20
@@ -199,6 +211,7 @@ sleep 3
 git clone https://github.com/Mr-Mufa/BLANK
 cd BLANK
 sh trojans.sh
+sleep 5
 ;;
 13)clear
 echo "$r""Maaf Gan Tools Ini Sudah Mati:("
@@ -213,6 +226,7 @@ git clone https://github.com/zlucifer/lucita_ddos
 cd lucita_ddos
 chmod +x pukul.py
 python pukul.py
+exit
 ;;
 00)clear
 echo "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII" | lolcat -a -d 20
@@ -226,6 +240,7 @@ exit
 xdg-open https://www.instagram.com/me.rmufa
 ;;
 *)echo "$r Pilihan Yang Anda Masukan Tidak Ada, Masukan Input Yang Sesuai."
+sleep 3
 
 
 esac
