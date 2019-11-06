@@ -64,6 +64,7 @@ echo "$yl"
 read -p "Masukan Pilihan : " pill
 echo
 echo "$r         [*]""$gl Loading..."
+sleep 5
 
 case $pill in
 1)clear
