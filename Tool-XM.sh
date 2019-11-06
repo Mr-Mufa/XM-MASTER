@@ -42,26 +42,22 @@ clear
 
 echo "$w""════════════════════════════════"
 echo "$yl""█░░░█ █▀▀ █░░ ▄▀ ▄▀▄ █▄░▄█ █▀▀"
-sleep 0.2
-echo "█░█░█ █▀▀ █░▄ █░ █░█ █░█░█ █▀▀"
-sleep 0.2
+echo "█░█░█ █▀▀ █░▄ █░ █░█ █░█░█ █▀▀
 echo "░▀░▀░ ▀▀▀ ▀▀▀ ░▀ ░▀░ ▀░░░▀ ▀▀▀"
-sleep 0.2
 echo "$w""               [""$r""*""$w""]" "$bl""Hi""$r"" $nama"
-sleep 3
 echo "$w""════════════════════════════════"
 echo "[+] Subscribe Chanell Mufa Tech" | lolcat -a -d 100
 echo""
 echo "$bl""[""$r""★""$bl""]""$yl"" PILIH MENU NYA ""$bl""[""$r""★""$bl""]"
 sleep 1
 echo "$w""(""$r""1""$w"") Login Tools Nya"
-sleep 0.1
+sleep 0.05
 echo "$w""(""$r""2""$w"") Hubungi Author""$w (""$gl""WhatsApp""$w"")"
-sleep 0.1
+sleep 0.05
 echo "$w""(""$r""3""$w"") Install Bahan"
-sleep 0.1
+sleep 0.05
 echo "$w""(""$r""4""$w"") Subscribe Chanell Mufa Tech"
-sleep 0.1
+sleep 0.05
 echo "$w""(""$r""0""$w"")""$r"" Exit"
 sleep 2
 echo "$yl"
