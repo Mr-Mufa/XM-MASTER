@@ -62,12 +62,11 @@ echo "$w""(""$r""0""$w"")""$r"" Exit"
 sleep 2
 echo "$yl"
 read -p "Masukan Pilihan : " pill
+echo
+echo "$r         [*]""$gl Loading..."
 
 case $pill in
 1)clear
-echo "$gl""Loading..."
-sleep 5
-clear
 sh tools.sh
 exit
 ;;
