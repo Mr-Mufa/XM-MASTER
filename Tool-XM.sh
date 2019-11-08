@@ -63,15 +63,14 @@ sleep 2
 echo "$yl"
 read -p "Masukan Pilihan : " pill
 echo
-printf "${yl}      [${r}•${yl}]${gl}Loading${p}"
+printf "${yl}      [${r}•${yl}]${gl} Loading${p}"
 sleep 0.5
 printf "."
 sleep 0.5
 printf "."
 sleep 0.5
 printf "."
-sleep 0.5
-printf ".
+sleep 2
 "
 
 case $pill in
