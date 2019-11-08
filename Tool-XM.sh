@@ -71,7 +71,6 @@ printf "."
 sleep 0.5
 printf "."
 sleep 2
-"
 
 case $pill in
 1)clear
