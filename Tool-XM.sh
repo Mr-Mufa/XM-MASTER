@@ -63,8 +63,16 @@ sleep 2
 echo "$yl"
 read -p "Masukan Pilihan : " pill
 echo
-echo "$r         [*]""$gl Loading..."
-sleep 5
+printf "${yl}[${r}•${yl}]${gl}Scaning${p}"
+sleep 0.5
+printf "."
+sleep 0.5
+printf "."
+sleep 0.5
+printf "."
+sleep 0.5
+printf ".
+"
 
 case $pill in
 1)clear
